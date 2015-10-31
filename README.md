@@ -22,7 +22,8 @@ A description of the installation process. This should contains every steps unti
   - Import Project
   - Import project from external model, Gradle
   - Use local gradle distribution, set Gradle home ( usr/lib/gradle/$VERSION_NUMBER)
-  - Finish
+  - Finish, $$ profit $$
+
 ## Licensing
 
 Please see the file called LICENSE.
