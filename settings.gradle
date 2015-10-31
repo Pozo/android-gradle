@@ -1,1 +1,1 @@
-include 'subProjects:project'
+include ':subProject'
