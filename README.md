@@ -17,9 +17,12 @@ A description of the installation process. This should contains every steps unti
   - Android Support Library (from the Android SDK Manager)
   - Google Play services (from the Android SDK Manager)
   - Google Repository (from the Android SDK Manager)
+
 ### IntelliJ Ultimate ( Community edition is not in the game:( )
   - Import Project
-  - 
+  - Import project from external model, Gradle
+  - Use local gradle distribution, set Gradle home ( usr/lib/gradle/$VERSION_NUMBER)
+  - Finish
 ## Licensing
 
 Please see the file called LICENSE.
